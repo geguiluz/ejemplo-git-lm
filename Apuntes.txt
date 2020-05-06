@@ -1,16 +1,16 @@
 Angular
-- ya esta prácticamente todo hecho
+- ya esta prï¿½cticamente todo hecho
 - enfocado para proyectos Enterprise
 - Todos los tipos de datos son como en java y C se tienen que declarar
-- la carga de la página es al vuelo
+- la carga de la pï¿½gina es al vuelo
 
 
 React
 - no trae librerias, se tienen que descargar
 - comunidad npm
-- carga mas rápido ya que viene pelon
+- carga mas rï¿½pido ya que viene pelon
 - las variables no tienen tipo de dato, son multi dato
-- la carga de la pagina da la opción de que sea al vuelo o cargarla en el servidor
+- la carga de la pagina da la opciï¿½n de que sea al vuelo o cargarla en el servidor
 
 
 
@@ -29,3 +29,6 @@ painponts
 - 3. business processes associated to each system to understand rules, flows and buisness
 - breacking monolythic into microservices
 - SQL server is feeding business and analythics
+
+Git:
+- Github, bitbucket y gitlab son nubes para git
