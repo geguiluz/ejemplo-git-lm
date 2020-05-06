@@ -14,7 +14,7 @@ React
 
 
 
-painpont
+painponts
 - datastruture in the DB, tables without primary keys (physicall and logical DB restructure)
 - navigation, datastructure 
 - record the copybook
