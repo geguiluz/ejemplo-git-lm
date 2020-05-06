@@ -1,0 +1,31 @@
+Angular
+- ya esta prácticamente todo hecho
+- enfocado para proyectos Enterprise
+- Todos los tipos de datos son como en java y C se tienen que declarar
+- la carga de la página es al vuelo
+
+
+React
+- no trae librerias, se tienen que descargar
+- comunidad npm
+- carga mas rápido ya que viene pelon
+- las variables no tienen tipo de dato, son multi dato
+- la carga de la pagina da la opción de que sea al vuelo o cargarla en el servidor
+
+
+
+painpont
+- datastruture in the DB, tables without primary keys (physicall and logical DB restructure)
+- navigation, datastructure 
+- record the copybook
+- challege, decoding the copy book
+- algorythm that has to be followed
+- record lenght of the copy book
+- ESB upgrade could be an opportunity
+- IBM products, there is no people with the technical experience in Chile
+- user stories and use cases
+- 1. DB DB2 Tables mus have to be compara agains the physical DB design
+- 2. Map of the front end system to the backend and DB tables
+- 3. business processes associated to each system to understand rules, flows and buisness
+- breacking monolythic into microservices
+- SQL server is feeding business and analythics
